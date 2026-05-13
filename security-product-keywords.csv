@@ -1,0 +1,107 @@
+Keyword,Category,Searcher Type,Search Intent
+endpoint security,Core Product,Enterprise,Solution
+device management,Core Product,Enterprise,Solution
+endpoint visibility,Core Product,Enterprise,Solution
+endpoint control,Core Product,Enterprise,Solution
+endpoint resilience,Core Product,Enterprise,Solution
+self-healing endpoint,Core Product,Enterprise,Solution
+cyber resilience,Core Product,Enterprise,Solution
+endpoint asset management,Core Product,Enterprise,Solution
+IT asset visibility,Core Product,Enterprise,Solution
+endpoint monitoring,Core Product,Enterprise,Solution
+device health monitoring,Core Product,Enterprise,Solution
+persistent endpoint agent,Core Product,Enterprise,Solution
+endpoint management,Core Product,MSP,Solution
+ransomware protection,Threat Protection,Enterprise,Solution
+ransomware response,Threat Protection,Enterprise,Solution
+ransomware recovery,Threat Protection,Enterprise,Solution
+threat remediation,Threat Protection,Enterprise,Solution
+endpoint detection,Threat Protection,Enterprise,Solution
+EDR,Threat Protection,Enterprise,Solution
+EDR integration,Threat Protection,Enterprise,Integration
+XDR integration,Threat Protection,Enterprise,Integration
+incident response,Threat Protection,Enterprise,Solution
+endpoint forensics,Threat Protection,Enterprise,Solution
+zero trust network access,Zero Trust,Enterprise,Solution
+ZTNA,Zero Trust,Enterprise,Technology
+secure access service edge,Zero Trust,Enterprise,Solution
+SASE,Zero Trust,Enterprise,Solution
+firmware-embedded security,Firmware Technology,Enterprise,Technology
+BIOS-level security,Firmware Technology,Enterprise,Technology
+BIOS firmware security,Firmware Technology,Enterprise,Technology
+UEFI security,Firmware Technology,Enterprise,Technology
+firmware-level endpoint protection,Firmware Technology,Enterprise,Technology
+firmware persistence,Firmware Technology,Enterprise,Technology
+hardware-rooted security,Firmware Technology,Enterprise,Technology
+silicon-level security,Firmware Technology,Enterprise,Technology
+pre-boot security,Firmware Technology,Enterprise,Technology
+boot-level endpoint protection,Firmware Technology,Enterprise,Technology
+embedded security agent,Firmware Technology,Enterprise,Technology
+persistent security,Firmware Technology,Enterprise,Differentiator
+uninstallable security,Firmware Technology,Enterprise,Differentiator
+tamper-proof endpoint security,Firmware Technology,Enterprise,Differentiator
+patch management,Patch Management,Enterprise,Solution
+vulnerability management,Patch Management,Enterprise,Solution
+vulnerability prioritization,Patch Management,Enterprise,Solution
+endpoint patch compliance,Patch Management,Enterprise,Compliance
+application self-healing,Application Security,Enterprise,Solution
+application health,Application Security,Enterprise,Solution
+application control,Application Security,Enterprise,Solution
+application protection,Application Security,Enterprise,Solution
+device tracking,Asset Recovery,Enterprise,Solution
+device recovery,Asset Recovery,Enterprise,Solution
+device wipe,Asset Recovery,Enterprise,Feature
+remote lock,Asset Recovery,Enterprise,Feature
+geolocation,Asset Recovery,Enterprise,Feature
+GPS tracking,Asset Recovery,Enterprise,Technology
+geofencing,Asset Recovery,Enterprise,Technology
+endpoint downtime prevention,Business Continuity,Enterprise,Business Value
+business continuity,Business Continuity,Enterprise,Solution
+disaster recovery for endpoints,Business Continuity,Enterprise,Solution
+endpoint remediation,Business Continuity,MSP,Solution
+OS recovery,Business Continuity,Enterprise,Solution
+device reimage,Business Continuity,Enterprise,Solution
+endpoint recovery,Business Continuity,Enterprise,Solution
+endpoint downtime,Business Continuity,Enterprise,ROI
+data breach,Business Continuity,Enterprise,ROI
+automated imaging,Business Continuity,Enterprise,Technology
+PXE boot recovery,Business Continuity,Enterprise,Technology
+endpoint compliance,Compliance,Enterprise,Solution
+device compliance,Compliance,Enterprise,Solution
+compliance reporting,Compliance,Enterprise,Solution
+endpoint cyber insurance,Compliance,Enterprise,Business Value
+HIPAA compliant,Compliance,Enterprise,Vertical
+FedRAMP,Compliance,Enterprise,Vertical
+SOC2 compliant,Compliance,Enterprise,Vertical
+device posture,Compliance,Enterprise,Feature
+endpoint risk,Compliance,Enterprise,Feature
+security orchestration,Automation,Enterprise,Solution
+security automation,Automation,Enterprise,Solution
+security controls,Automation,Enterprise,Feature
+playbook automation,Automation,Enterprise,Feature
+policy as code,Automation,Enterprise,Technology
+IT discovery,Visibility & Control,Enterprise,Feature
+unauthorized detection,Visibility & Control,Enterprise,Feature
+endpoint policy enforcement,Visibility & Control,Enterprise,Feature
+endpoint telemetry,Visibility & Control,Enterprise,Feature
+agent-based monitoring,Visibility & Control,Enterprise,Technology
+agentless security,Visibility & Control,Enterprise,Technology
+behavioral analytics,Visibility & Control,Enterprise,Technology
+anomaly detection,Visibility & Control,Enterprise,Technology
+workforce security,Use Case,Enterprise,Use Case
+BYOD,Use Case,Enterprise,Use Case
+risk management,Use Case,Enterprise,Use Case
+supply chain security,Use Case,Enterprise,Use Case
+SSO integration,Identity Integration,Enterprise,Integration
+SIEM integration,Security Integration,Enterprise,Integration
+SOAR integration,Security Integration,Enterprise,Integration
+MDM integration,Endpoint Management,Enterprise,Integration
+EMM integration,Endpoint Management,Enterprise,Integration
+UEM integration,Endpoint Management,Enterprise,Integration
+mobility management,Endpoint Management,Enterprise,Solution
+network segmentation,Network Security,Enterprise,Technology
+micro-segmentation,Network Security,Enterprise,Technology
+data encryption,Encryption,Enterprise,Technology
+device encryption,Encryption,Enterprise,Solution
+endpoint survivability,Architecture,Enterprise,Technology
+threat intelligence,Advanced Analytics,Enterprise,Technology
